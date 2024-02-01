@@ -1,6 +1,6 @@
 /*
  * This file is part of WebGoat, an Open Web Application Security Project utility. For details, please see http://www.owasp.org/
- *
+ * a
  * Copyright (c) 2002 - 2019 Bruce Mayhew
  *
  * This program is free software; you can redistribute it and/or modify it under the terms of the
